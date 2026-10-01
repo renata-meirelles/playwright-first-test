@@ -1,5 +1,3 @@
-# playwright-first-test
-Projeto introdutório de automação de testes com Playwright realizado durante meus estudos de QA na Mate Academy. Copiar  Depois:  Mantenha Public.  Ative Add README.  Deixe .gitignore e License como estão.  Clique em Create repository.
 # Playwright - First Automated Test
 
 Projeto introdutório de automação de testes realizado durante meus estudos de Quality Assurance na Mate Academy.
